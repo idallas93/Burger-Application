@@ -8,11 +8,11 @@ This app is a burger logger that uses MySQL, Node, Express, Handlebars and a hom
 
 * Eat Da Burger is a restaurant app that lets users input the names of burgers they'd like to eat.
 
-* Whenever a user submits a burger's name, the app displays the burger on the top of the page -- waiting to be devoured.
+* Whenever a user submits a burger that is not yet eaten, the app displays the burger on the bottom left of the page -- waiting to be devoured.
 
-* Each burger in the waiting area also has a `Eat it` button. When the user clicks it, the burger will move to the bottom of the page under "burgers that are eaten".
+* Each burger in the waiting area also has an `Eat it` button. When the user clicks it, the burger will move to the bottom right of the page under "burgers that are eaten".
 
-* The app store every burger in a database, whether devoured or not.
+* The app stores every burger in a database, whether devoured or not.
 
 
 
