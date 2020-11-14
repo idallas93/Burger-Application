@@ -24,7 +24,7 @@ li {
 
 img{
   display: block;
-  margin-left: auto;
+  margin-left: 35%;
   margin-right: auto;
   margin-bottom: 32px;
   width: 25%;
@@ -53,7 +53,7 @@ h1{
   }
   
 .add-burger{
-    margin-left:34%
+    margin-left:27%
   }
 
 h2{
