@@ -4,6 +4,9 @@
 
 This app is a burger logger that uses MySQL, Node, Express, Handlebars and a homemade ORM. This app  follows a MVC design pattern using Node and MySQL to query and route data/ Handlebars to generate HTML.
 
+### Deployed Link
+[Deployed link](https://calm-temple-91222.herokuapp.com/)
+
 ### Functionality
 
 * Eat Da Burger is a restaurant app that lets users input the names of burgers they'd like to eat.
